@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.tab{
+  width: 100%;
+}
+table {
+  width: 80%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 15px;
+  text-align: center;
+}
+
+tr:hover {
+  background-color:burlywood;
+}
+
+#mapid {
+  margin-top: 50px;
+  margin: 50px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.leaflet-container {
+    height: 450px !important;
+    width:80% !important;
+    top: -483px !important;
+  
+    left: 264px;
+  }
+  
+  .leaflet-div-icon {
+    background: transparent;
+    border: none;
+  }
+  
